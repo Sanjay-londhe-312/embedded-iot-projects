@@ -1,0 +1,15 @@
+# Arduino / build output
+build/
+*.elf
+*.map
+*.bin
+*.hex
+# Libraries and archives
+*.zip
+# Private settings
+secrets.h
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
